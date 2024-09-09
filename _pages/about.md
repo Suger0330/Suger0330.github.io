@@ -1,9 +1,7 @@
-About me
-======
-Xi-Ming Liu was born in Tangshan, Hebei, China, in 1999. He received the B.E. degree in mechanical engineering from the Changchun University of Technology, Changchun, China, in 2022. He is currently pursuing the M.S. degree in control theory and control engineering with the School of Control Science and Engineering, Bohai University, Jinzhou, China. His research interests include fuzzy control systems, networked control systems, event-triggered control, and security control.
+I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
-Education
-======
-2018 - Present, M. Eng - Control Theory and Control Engineering, Bohai University, China
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-2020 - 2022, B. Eng - Mechanical Engineering, Changchun University of Technology, China
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
